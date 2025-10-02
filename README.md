@@ -13,6 +13,8 @@ Requirements:
 ```
 Requirements:
 - [ZSH] Linux App
+- [bat] https://github.com/sharkdp/bat
+- [eza] https://github.com/eza-community/eza
 - [Oh My Zsh] https://ohmyz.sh/
 - Oh My Zsh Pluguns:
     -> [git] Integrated
