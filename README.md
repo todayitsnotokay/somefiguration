@@ -15,10 +15,10 @@
 - `[eza]` [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
 - `[Oh My Zsh]` [https://ohmyz.sh](https://ohmyz.sh)
 - `Oh My Zsh Pluguns:`
-    -> `[git]` Integrated
-    -> `[fzf-zsh-plugin]` [https://github.com/unixorn/fzf-zsh-plugin](https://github.com/unixorn/fzf-zsh-plugin)
-    -> `[zsh-autosuggestions]` [https://github.com/zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestion)
-    -> `[zsh-syntax-highlighting]` [https://github.com/zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+        + `[git]` Integrated
+        + `[fzf-zsh-plugin]` [https://github.com/unixorn/fzf-zsh-plugin](https://github.com/unixorn/fzf-zsh-plugin)
+        + `[zsh-autosuggestions]` [https://github.com/zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestion)
+        + `[zsh-syntax-highlighting]` [https://github.com/zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 - `[tmux]` [https://github.com/tmux/tmux](https://github.com/tmux/tmux) 
 
 ## VIM
